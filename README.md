@@ -1,0 +1,2 @@
+# Cpp_MettingRoomReserveSystem_VS2010
+会议室预约系统，MFC界面
